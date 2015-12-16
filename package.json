@@ -13,7 +13,7 @@
     "type": "git",
     "url": "https://github.com/jessepollak/payment.git"
   },
-  "main": "lib/payment.js",
+  "main": "src/payment.coffee",
   "scripts": {
     "test": "gulp test"
   },
